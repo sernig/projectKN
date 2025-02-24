@@ -26,8 +26,8 @@
 
 ### Ресурсы для обучения
 - Учебник по С++: [ООП в С++ Р.Лафоре](https://vk.com/wall-68467917_16567)
-  - Онлайн курсы: [GeeksforGeeks](https://translated.turbopages.org/proxy_u/en-ru.ru.87380a8a-67bc09cc-23859943-74722d776562/https/www.geeksforgeeks.org/)
-  - Видео на YouTube.
+- Онлайн курсы: [GeeksforGeeks](https://translated.turbopages.org/proxy_u/en-ru.ru.87380a8a-67bc09cc-23859943-74722d776562/https/www.geeksforgeeks.org/)
+- Видео на YouTube.
 
 ### Примеры кода
 - Пример реализации на С++: [GitHub Repository](https://github.com/Tugamer89/TicTacToe)
